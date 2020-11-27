@@ -1,0 +1,26 @@
+{
+  "name": "meme-api",
+  "version": "1.0.0",
+  "description": "A complete meme library for node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'working'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theabbie/meme-api.git"
+  },
+  "keywords": [
+    "theabbie",
+    "meme-api"
+  ],
+  "author": "theabbie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theabbie/meme-api/issues"
+  },
+  "homepage": "https://github.com/theabbie/meme-api#readme",
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
+}
